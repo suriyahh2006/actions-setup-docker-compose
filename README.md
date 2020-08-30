@@ -4,7 +4,7 @@
 
 This action downloads the `docker-compose` command and add it to the `PATH` for following executions. It supports the Linux environment only.
 
-## How to use
+## How to use  
 
 Add a step to your workflow like below:
 
